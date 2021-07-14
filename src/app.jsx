@@ -6,7 +6,7 @@ class App extends Component {
     this.state = {
       firstName: '',
       lastName: '',
-      coolPerson: true,
+      coolPerson: false,
       favAnimal: '',
       horoscope: ''
     };
